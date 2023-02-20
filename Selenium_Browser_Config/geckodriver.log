@@ -1,0 +1,36 @@
+1676877223559	geckodriver	INFO	Listening on 127.0.0.1:1942
+1676877226675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiletIFzS9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676877228842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676877228890	Marionette	INFO	Listening on port 1953
+Read port: 1953
+WebDriver BiDi listening on ws://127.0.0.1:1943
+1676877229861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiletIFzS9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1943/devtools/browser/7a97f203-b561-49f6-8b24-3055a8f35381
+1676877438047	geckodriver	INFO	Listening on 127.0.0.1:2025
+1676877441129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUr0SCq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676877442573	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676877442585	Marionette	INFO	Listening on port 2034
+Read port: 2034
+WebDriver BiDi listening on ws://127.0.0.1:2026
+1676877443021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUr0SCq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2026/devtools/browser/23dc8e2e-1873-4c46-9ca9-21f67a4b9207
+1676877501546	geckodriver	INFO	Listening on 127.0.0.1:2095
+1676877504749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilem0BB5t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676877506271	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676877506286	Marionette	INFO	Listening on port 2106
+Read port: 2106
+WebDriver BiDi listening on ws://127.0.0.1:2096
+1676877506645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilem0BB5t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2096/devtools/browser/c5d056cd-74bb-499b-ae5b-4dd8a8a61e97
